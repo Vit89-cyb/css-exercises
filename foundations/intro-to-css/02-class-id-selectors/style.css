@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.alert-text {
+    background-color: rgb(224, 54, 77);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#title {
+    color:blue; font-size:36px;
+}
+.unread {
+    font-size:24px;
+
+}
+#read {
+    font-weight:bold;
+    color:hsl(124, 92%, 59%);
+    font-size:24px;
+}
